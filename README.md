@@ -3,8 +3,8 @@ This file was created as a collection of common highlights in readme file
 
 ## Table of Contents
 
-- [Highlights information palette](#highlights_information_palette)
-- [Color palette](#color_palette)
+- [Highlights information palette](#highlights-information-palette)
+- [Color palette](#color-palette)
 
 ## Highlights information palette
 
